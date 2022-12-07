@@ -8,7 +8,7 @@ setup(
     version='0.0.8',
     description='A python library that can help developer to see much informations about tunisian companies in stock market',
     author= 'Anis SAADAOUI',
-#    url = 'https://github.com/Spidy20/PyMusic_Player',
+    url = 'https://github.com/anis-saadaoui/pyfinance_tunisia',
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(where="./src"),
